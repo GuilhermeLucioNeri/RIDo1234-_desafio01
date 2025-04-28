@@ -1,1 +1,2 @@
-# RIDo1234-_desafio01
+# Projeto-landing-page-
+Meu primeiro projeto base do curso de tecnologia da Escola DNC
